@@ -2,4 +2,7 @@
 
 let sum = 0;
 
-if(i = 0; i <= 100; i++)
+if(i = 0; i <= 100; i++);
+
+sum = sum + i;
+

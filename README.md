@@ -10,6 +10,7 @@ sum = sum + i;
 
 
 //C언어 1부터 100까의 합
+
 #include <stdio.h>
 void main()
 {
@@ -21,6 +22,7 @@ void main()
 }
 
 //자바 1부터 100까지 합
+
 public static void main(String[] args) {
 	// 합계를 저장해줄 변수 sum 선언
 	int sum = 0;
